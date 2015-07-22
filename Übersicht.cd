@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Enthält nur die Elemente, die auf den gemeinsamen Membern von object operieren können.">
+    <Position X="4.521" Y="1.285" Height="0.854" Width="1.853" />
+  </Comment>
+  <Class Name="SematicTypes.BruttoPreis">
+    <Position X="0.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEYAUAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BruttoPreis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SematicTypes.MehrwertSteuer">
+    <Position X="3.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MehrwertSteuer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SematicTypes.NettoPreis">
+    <Position X="6.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEYAUAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>NettoPreis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SematicTypes.SemanticType&lt;T&gt;">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAgAAAAAiA=</HashCode>
+      <FileName>SemanticType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
